@@ -9,7 +9,7 @@
 
 - Below are some Screen shots of the images generated from the app and the UI of the application
 
-![Alt text](./Images/.png)
+![UI](./Images/.png)
 
 ![Alt text](./Images/2.png)
 
