@@ -9,17 +9,17 @@
 
 - Below are some Screen shots of the images generated from the app and the UI of the application
 
-![Alt text](./images/.png)
+![Alt text](./Images/.png)
 
-![Alt text](./images/2.png)
+![Alt text](./Images/2.png)
 
-![Alt text](./images/3.png)
+![Alt text](./Images/3.png)
 
-![Alt text](./images/4.png)
+![Alt text](./Images/4.png)
 
-![Alt text](./images/5.png)
+![Alt text](./Images/5.png)
 
-![Alt text](./images/6.png)
+![Alt text](./Images/6.png)
 
 To run this project follow these steps:
 * make sure you have react installed
